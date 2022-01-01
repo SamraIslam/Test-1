@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 80D1-A727
+
+ Directory of C:\Users\AARIZ Traders\Desktop\Samra
+
+01/01/2022  12:41 pm    <DIR>          .
+01/01/2022  12:41 pm    <DIR>          ..
+01/01/2022  12:41 pm                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  436,225,597,440 bytes free
+change 1
